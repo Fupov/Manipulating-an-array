@@ -15,7 +15,7 @@ C++ application allowing the manipulation of an array:
 ## Requirement
 
 - GCC compilator
-- C/C++ IDE
+- C/C++ IDE (CodeBlock)
 
 ## Author
 * **Fupov** ([GitHub](https://github.com/Fupov/) / [LinkedIn](https://www.linkedin.com/in/tchich-aymane/))
